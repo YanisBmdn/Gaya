@@ -115,7 +115,7 @@ class APIEndpointRegistry:
         Provide parameter information for a specific endpoint.
         """
 
-        with open('apis.json', 'r') as file:
+        with open('known_apis.json', 'r') as file:
             parameters = json.load(file)
 
         return parameters[url]

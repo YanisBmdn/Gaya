@@ -7,6 +7,7 @@ import pandas as pd
 @dataclass
 class VisualizationNeed(BaseModel):
     need_visualization: int
+    topic_of_interest: str
 
 @dataclass
 class PersonaSelection(BaseModel):

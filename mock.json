@@ -7,11 +7,11 @@
                 "message": "The heat in Nagoya seems to get worse every year. It's hard to imagine how it was 50 years ago."
             },
             {
-                "persona": "Bob",
+                "persona": "Oscar",
                 "message": "Yeah, I wonder if the temperature patterns have really changed that much."
             },
             {
-                "persona": "Oscar",
+                "persona": "Bob",
                 "message": "It would be interesting to see if summers are getting hotter or winters milder."
             }
         ]

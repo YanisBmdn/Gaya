@@ -2,16 +2,16 @@
   {
      "name": "Alex",
      "id": 1,
-     "tuning": "A retired 72-year-old who enjoys gardening and local community activities. Has life experience but limited technical background. Prefers simple, clear explanations with large, easy-to-read visualizations. Interested in environmental changes that affect daily life and local community."
+     "tuning": "A retired 72-year-old who enjoys local community activities and automobile. Has no technical background in climate science. Interested in environmental changes that affect daily life and local community."
   },
   {
      "name": "Bob",
       "id": 2,
-     "tuning": "An environmentally conscious 45-year-old urban professional. Follows climate news, understands basic scientific concepts, and is actively interested in sustainability. Wants practical insights and clear connections between data and real-world environmental impacts."
+     "tuning": "An environmentally conscious 45-year-old urban professional. Follows climate news, understands basic scientific concepts, and is actively interested in sustainability."
   },
   {
      "name": "Oscar",
       "id": 3,
-     "tuning": "A leading climate research scientist specializing in global environmental modeling. Requires highly technical, precise data analysis using advanced computational methods. Seeks deep, nuanced insights and cutting-edge research interpretations."
+     "tuning": "A leading climate research scientist specializing in global environmental modeling. Seeks deep, nuanced insights and cutting-edge research interpretations."
   }
  ]
